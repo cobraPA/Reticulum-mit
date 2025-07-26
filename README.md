@@ -1,3 +1,5 @@
+CAUTION: this is a branch of Reticulum based on the MIT licensed code starting from RNS 0.9.4.  If you are looking for current, you probably wanted to go to https://github.com/markqvist/Reticulum.
+
 Reticulum Network Stack β <img align="right" src="https://static.pepy.tech/personalized-badge/rns?period=month&units=international_system&left_color=grey&right_color=blue&left_text=Installs/month" style="padding-left:10px"/><a href="https://github.com/markqvist/Reticulum/actions/workflows/build.yml"><img align="right" src="https://github.com/markqvist/Reticulum/actions/workflows/build.yml/badge.svg"/></a>
 ==========
 
